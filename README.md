@@ -2,7 +2,10 @@
 
 ## Problem Statement
 
-If we want to create modern, fully-equipped websites and web apps, we need to use JavaScript. This programming language has its own uses, history, tools and practices, and becoming familiar with them will let us leverage JavaScript's power to improve all of our web experiences.
+If we want to create modern, fully-equipped websites and web apps, we need to
+use JavaScript. This programming language has its own uses, history, tools and
+practices, and becoming familiar with them will let us leverage JavaScript's
+power to improve all of our web experiences.
 
 ## Objectives
 
@@ -19,12 +22,12 @@ Along with HTML and CSS, it's used to create virtually all the web pages and
 apps you interact with, from Google to Facebook to Wikipedia to Amazon to
 Netflix.
 
-Each of the three main web technologies plays a role in creating the content you
-see on a website.
+Each of these three main web technologies plays a role in creating the content you
+see on a website:
 
-- **HyperText Markup Language (HTML)** provides structure to the content, arranging it in a nested, tree-like way.
-- **Cascading Style Sheets (CSS)** adds styling to the page, letting us customize the look of text content, the background color of the page, and the size and position of the various HTML elements.
-- **JavaScript** does pretty much everything else and handles most of the dynamic behavior of a website. For example: reacting to user events (like clicking a button), changing the page's content without reloading, and executing network requests in the background.
+- **HyperText Markup Language (HTML)** provides structure to the content, arranging it in a nested, tree-like way, and allows us to mark up the content with attributes like `id` and `class`.
+- **Cascading Style Sheets (CSS)** adds styling to the page, letting us customize the look of the content, often using `id` and `class` attributes, in addition to the semantic elements, to target the elements we want to style.
+- **JavaScript** does pretty much everything else and handles most of the dynamic behavior of a website. For example: reacting to user events (like clicking a button), changing the page's content without reloading, and executing network requests in the background. Like CSS, the joining of HTML elements and changes that happen when they're interacted with (clicked on, moused over, etc.) often happens by targeting elements by their `id` or `class` attribute.
 
 When you hover your mouse over a button and it wiggles in anticipation, or when
 you see new notification alerts on Twitter without refreshing the page, or when
@@ -38,7 +41,7 @@ every major browser (HTML is a _markup language_ and CSS is a _style sheet
 language_).
 
 A language of many talents, JavaScript allows us to create incredibly diverse
-applications that run in the browser, on the server, on the desktop, and on
+applications that run in the browser, on the back-end as NodeJS, on the desktop, and on
 mobile devices. It's a flexible language, allowing us to program in many
 different styles — functional and object-oriented, in particular — mixing and
 matching concepts to adapt to our needs. It's powerful, scalable, and has a
@@ -70,18 +73,21 @@ rise in popularity and usefulness that has continued to the present day.
 
 Even though AJAX provided a lot of useful functionality to the language,
 JavaScript was still difficult to program. Different browsers implemented
-different features in different ways. There were a few competing camps who all
-had different ideas about what the language should be. In early 2009, eeryone
+different features in different ways. There were a few competing camps which all
+had different ideas about what the language should be. In early 2009, everyone
 came together to agree on standardization. The fifth version of JavaScript was
-released in late 2009. It's known as _ES5_ ('ES' for _ECMAScript_, the
-official name of the JavaScript specification) or _Harmony_ (because it
-harmonized competing implementations of the ECMAScript specification).
+released in late 2009. It's known as _ES5_ ('ES' for _ECMAScript_, the official
+name of the JavaScript specification) or _Harmony_ (because it harmonized
+competing implementations of the ECMAScript specification). (Note: We still
+refer to the language as JavaScript, and use the particular version titles only
+when we need to point to particular version features.)
 
 Harmonization was great, but the language was still lacking modern language
-features. JavaScript began to address those concerns in 2015 with the unveiling
+features common to most standard programming languages like PHP, Java, C, Python
+and Ruby. JavaScript began to address those concerns in 2015 with the unveiling
 of _ES6_ or _ES2015_, the sixth version of JavaScript. Since then, they have
-released updates every year, including _ES2016_ and _ES201_, both of which
-have brought additional modern features into the language.
+released updates every year, including _ES2016_ and _ES201_, both of which have
+brought additional modern features into the language. 
 
 ## Complilation and JavaScript
 
@@ -96,14 +102,14 @@ and runs. In a compiled language like Java, you write some code in a human-
 readable format, and then the compiler takes that code and essentially
 translates it into machine-readable code. That means that it's very difficult to
 open up the source code for an application written in a compiled language and
-poke around it to understand what's going on.
+poke around in it to understand what's going on.
 
-Because it doesn't get compiled, that is exactly what we can do with JavaScript
-code. Towards the end of this JavaScript curriculum, you'll find yourself able
-to go to a website you like, open up the source code using your browser's
-developer tools, and look directly at all of the JavaScript code used on that
-site. This is a powerful feature of the language and an incredible tool for
-learning by example.
+Because JavaScript doesn't get compiled, that is exactly what we can do with
+JavaScript code. Towards the end of this JavaScript curriculum, you'll find
+yourself able to go to a website you like, open up the source code using your
+browser's developer tools, and look directly at all of the JavaScript code used
+on that site. This is a powerful feature of the language and an incredible tool
+for learning by example.
 
 ## Write JavaScript in the Chrome Dev Tools Console
 
@@ -111,7 +117,7 @@ Every major browser comes with a built-in set of developer tools that you can
 use to inspect, modify, and debug the content of a web page.
 
 ***NOTE:*** To ensure that instructions and screenshots match up with your
-experience, we recommend using the [Google Chrome](https://www.google.com/chrome/index.html) browser.
+experience, use [Google Chrome](https://www.google.com/chrome/index.html) browser.
 
 To [open the dev tools in Chrome](https://developers.google.com/web/tools/chrome-devtools/console/#open_as_panel
 ), press `Ctrl+Shift+J` (Windows / Linux) or `Cmd+Opt+J` (Mac). Chrome ships with a whole suite of useful dev tools, but the only one we care about for now is the JavaScript console.
