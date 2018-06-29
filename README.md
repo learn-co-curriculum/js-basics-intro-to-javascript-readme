@@ -108,8 +108,8 @@ Go ahead and type that classic phrase, `"Hello, world!"`, into the console and p
 
 
 <picture>
-  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console.gif" type="image/gif">
-  <img src="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console.gif" width="100" height="100">
+  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console_300.gif" type="image/gif">
+  <img src="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console_300.gif" width="100" height="100">
 </picture>
 
 ## Built-in goodies
