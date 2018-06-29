@@ -99,12 +99,14 @@ You just wrote and ran your first line of JavaScript code!
 The code you wrote, `1 + 1` is an _expression_. In JavaScript, an expression is **[a valid unit of code that returns a value](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Expressions)**. The value that it returned, `2`, is aptly referred to as the **return value** of the expression. Try out some more mathematical expressions and see what they return!
 
 Next up, let's write some text. To make sure the JavaScript engine knows that we're trying to write some literal text, we need to wrap it in quotation marks, like so:
+
 ```js
 "This is some literal text in JavaScript!"
 ```
 
 Go ahead and type that classic phrase, `"Hello, world!"`, into the console and press enter. It returned `"Hello, world!"` right back to us! Try typing some more literal text into the console, such as your name. Don't forget the quotation marks!
 
+  <img src="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console_300.gif" width="100" height="100">
 
 
 <picture>
