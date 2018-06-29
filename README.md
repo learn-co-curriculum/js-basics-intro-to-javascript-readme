@@ -105,12 +105,11 @@ Next up, let's write some text. To make sure the JavaScript engine knows that we
 
 Go ahead and type that classic phrase, `"Hello, world!"`, into the console and press enter. It returned `"Hello, world!"` right back to us! Try typing some more literal text into the console, such as your name. Don't forget the quotation marks!
 
-<img src="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console.gif" width="100" height="100">
+
 
 <picture>
-  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console.webp" type="image/webp">
   <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console.gif" type="image/gif">
-  <img src="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console.gif" alt="Text in the console">
+  <img src="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console.gif" width="100" height="100">
 </picture>
 
 ## Built-in goodies
