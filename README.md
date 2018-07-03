@@ -192,11 +192,8 @@ press enter. It returned `"Hello, world!"` right back to us. Try typing some
 more literal text into the console, such as your name. Don't forget the
 quotation marks!
 
-<picture>
-  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console_300.webp" type="image/webp">
-  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console_300.gif" type="image/gif">
-  <img src="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console_300.gif" alt="Text in the console">
-</picture>
+<img src="https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console_300.gif" alt="Text in the console">
+
 
 ### Debugging
 
