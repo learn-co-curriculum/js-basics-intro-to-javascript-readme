@@ -43,7 +43,7 @@ language_).
 A language of many talents, JavaScript allows us to create incredibly diverse
 applications that run in the browser, on the back-end as NodeJS, on the desktop, and on
 mobile devices. It's a flexible language, allowing us to program in many
-different styles — functional and object-oriented, in particular — mixing and
+different styles — [functional][fn] and [object-oriented][oo], in particular — mixing and
 matching concepts to adapt to our needs. It's powerful, scalable, and has a
 robust community of developers churning out new code and advancing the language.
 And, finally, it's a great first or second language to learn.
@@ -273,3 +273,6 @@ refresh the page whenever you need a clean slate. Code, code, **code**,
 JavaScript is popular and powerful programming language for the web. It works with HTML and CSS to provide many of the web experiences users now interact with daily. Its history shows that its evolution has been complicated, but improvements are happening now on a regular, yearly basis. We can use the console in Chrome Dev Tools to run JavaScript code and there are best practices to use when it comes to syntax and referencing functions, keywords and variables. The most effective way to understand JavaScript code is to practice writing it frequently.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-basics-intro-to-javascript-readme' title='Intro to JavaScript'>Intro to JavaScript</a> on Learn.co and start learning to code for free.</p>
+
+[functional]: https://hackernoon.com/functional-programming-what-language-should-you-be-talking-313dd8bc379b
+[oo]: https://en.wikipedia.org/wiki/Object-oriented_programming
