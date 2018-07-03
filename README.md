@@ -274,5 +274,5 @@ JavaScript is popular and powerful programming language for the web. It works wi
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-basics-intro-to-javascript-readme' title='Intro to JavaScript'>Intro to JavaScript</a> on Learn.co and start learning to code for free.</p>
 
-[functional]: https://hackernoon.com/functional-programming-what-language-should-you-be-talking-313dd8bc379b
+[fn]: https://hackernoon.com/functional-programming-what-language-should-you-be-talking-313dd8bc379b
 [oo]: https://en.wikipedia.org/wiki/Object-oriented_programming
