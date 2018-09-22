@@ -267,7 +267,7 @@ refresh the page whenever you need a clean slate. Code, code, **code**,
 
 ## Conclusion
 
-JavaScript is popular and powerful programming language for the web. It works with HTML and CSS to provide many of the web experiences users now interact with daily. Its history shows that its evolution has been complicated, but improvements are happening now on a regular, yearly basis. We can use the console in Chrome Dev Tools to run JavaScript code and there are best practices to use when it comes to syntax and referencing functions, keywords and variables. The most effective way to understand JavaScript code is to practice writing it frequently.
+JavaScript is a popular and powerful programming language for the web. It works with HTML and CSS to provide many of the web experiences users now interact with daily. Its history shows that its evolution has been complicated, but improvements are happening now on a regular, yearly basis. We can use the console in Chrome Dev Tools to run JavaScript code and there are best practices to use when it comes to syntax and referencing functions, keywords and variables. The most effective way to understand JavaScript code is to practice writing it frequently.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-basics-intro-to-javascript-readme' title='Intro to JavaScript'>Intro to JavaScript</a> on Learn.co and start learning to code for free.</p>
 
