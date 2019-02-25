@@ -225,6 +225,14 @@ your code. The second pass is to initialize variables and functions and store
 them in memory. And the third pass is to actually execute the code line-by-line.
 We'll learn more about the second and third phases in an upcoming lesson.
 
+Most programmers consider the first and second pass the "compilation phase." It's
+where JavaScript makes sure that your code is readable and it sets up the computer
+to run your code ("Hey, CPU, can we have enough memory to hold this `Array`?", etc.).
+It's a lot like setting up a chain of dominoes. The third phase, as we called it
+above, is often called the "execution phase." It's where the code is run top-down,
+left-to-right. It's where JavaScript tips over the first domino and starts the chain
+of "doing work."
+
 During the first pass as it's parsing the syntax of your JavaScript file, the
 engine undertakes a process called _automatic semicolon insertion_. The name
 says it all, and this is why statement-ending semicolons are optional — the
